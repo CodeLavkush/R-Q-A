@@ -141,10 +141,6 @@
 [1] 12 14 16 18 20
 ```
 
-**Explanation:**
-
-This question requires you to use vectorized operations to efficiently modify a vector.
-
 **Question 17**
 
 **Output:**
@@ -156,11 +152,6 @@ This question requires you to use vectorized operations to efficiently modify a 
 [[2]]
 [1] "cherry" "date" 
 ```
-
-**Explanation:**
-
-This question involves splitting a vector into two sub-vectors based on a condition. You'll need to use subsetting and potentially the `split()` function.
-
 **Question 18**
 
 **Output:**
@@ -168,11 +159,6 @@ This question involves splitting a vector into two sub-vectors based on a condit
 ```
 [1] 3 6 9 12 15
 ```
-
-**Explanation:**
-
-This question tests your understanding of vectorized operations and the use of functions like `sapply()` or `lapply()` to apply a function to each element of a vector.
-
 **Question 19**
 
 **Output:**
@@ -180,11 +166,6 @@ This question tests your understanding of vectorized operations and the use of f
 ```
 [1] "apple" "banana" "cherry" "date"  "apple" "banana"
 ```
-
-**Explanation:**
-
-This question involves combining elements from different parts of a list while potentially using subsetting and concatenation.
-
 **Question 20**
 
 **Output:**
@@ -206,11 +187,6 @@ This question involves combining elements from different parts of a list while p
 ```
 [1] 5 4 3 2 1
 ```
-
-**Explanation:**
-
-This question requires you to reverse the order of a vector. You can use indexing and the `length()` function to achieve this.
-
 **Question 22**
 
 **Output:**
@@ -218,10 +194,6 @@ This question requires you to reverse the order of a vector. You can use indexin
 ```
 [1] 1 3 5 7 9
 ```
-
-**Explanation:**
-
-This question involves creating a sequence of odd numbers using the `seq()` function.
 
 **Question 23**
 
@@ -231,10 +203,6 @@ This question involves creating a sequence of odd numbers using the `seq()` func
 [1] 2 4 6 8 10
 ```
 
-**Explanation:**
-
-This question involves creating a sequence of even numbers using the `seq()` function and potentially the `*` operator for multiplication.
-
 **Question 24**
 
 **Output:**
@@ -242,10 +210,6 @@ This question involves creating a sequence of even numbers using the `seq()` fun
 ```
 [1] 2 4 6 8 10
 ```
-
-**Explanation:**
-
-This question requires you to remove the first element from a vector and then double each remaining element. You'll need to use indexing and the `*` operator.
 
 **Question 25**
 
@@ -255,10 +219,6 @@ This question requires you to remove the first element from a vector and then do
 [1] 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5
 ```
 
-**Explanation:**
-
-This question involves combining two sequences of numbers using the `c()` function.
-
 **Question 26**
 
 **Output:**
@@ -266,10 +226,6 @@ This question involves combining two sequences of numbers using the `c()` functi
 ```
 [1] 1 2 3 4 5 1 2 3 4 5
 ```
-
-**Explanation:**
-
-This question requires you to repeat a sequence of numbers using the `rep()` function.
 
 **Question 27**
 
@@ -279,10 +235,6 @@ This question requires you to repeat a sequence of numbers using the `rep()` fun
 [1] 1 2 3 4 5
 ```
 
-**Explanation:**
-
-This question involves creating a sequence of numbers and then sorting them in ascending order using the `sort()` function.
-
 **Question 28**
 
 **Output:**
@@ -290,10 +242,6 @@ This question involves creating a sequence of numbers and then sorting them in a
 ```
 [1] 5 4 3 2 1
 ```
-
-**Explanation:**
-
-This question involves creating a sequence of numbers and then sorting them in descending order using the `sort()` function with the `decreasing = TRUE` argument.
 
 **Question 29**
 
@@ -309,10 +257,6 @@ This question involves creating a sequence of numbers and then sorting them in d
 [[3]]
 [1] 7 8 9
 ```
-
-**Explanation:**
-
-This question requires you to split a vector into smaller sub-vectors using subsetting and potentially the `list()` function.
 
 **Question 30**
 
