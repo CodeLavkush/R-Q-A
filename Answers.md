@@ -149,7 +149,7 @@ fruits3 <- append(fruits1, fruits2)
 fruits3
 ```
 Q20
-
+```
 nums1 <- 1:9
 
 nums2 <- list(nums1[1:3], nums1[4:6], nums1[7:9])
